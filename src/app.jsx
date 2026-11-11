@@ -46,7 +46,6 @@ function App() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
       <h1>Sistema de Gestión de Inventarios - Comedor Industrial</h1>
-      <h2>Sprint 1: Módulo de Almacén y Dashboard Ejecutivo</h2>
 
       {/* HU-02: Dashboard de Consulta con Filtros */}
       <div style={{ marginBottom: '20px', padding: '10px', background: '#f4f4f4', borderRadius: '5px' }}>
